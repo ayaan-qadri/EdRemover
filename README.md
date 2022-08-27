@@ -6,9 +6,10 @@ Usage:
 1) Install termux.
 2) pkg install git
 3) pkg install python
-4) git clone https://github.com/PentW0lf/EdRemover
-5) cd EdRemover
-6) chmod +x edremover.py
-7) python edremover.py
+4) cd $HOME
+5) git clone https://github.com/PentW0lf/EdRemover
+6) cd EdRemover
+7) chmod +x edremover.py
+8) python edremover.py
 
 <b> There you go </b>
