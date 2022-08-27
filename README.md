@@ -9,7 +9,7 @@ Usage:
 4) cd $HOME
 5) git clone https://github.com/PentW0lf/EdRemover
 6) cd EdRemover
-7) pip install -r requirement.txt
+7) pip install os
 8) chmod +x edremover.py
 9) python edremover.py
 
