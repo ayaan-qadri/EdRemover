@@ -3,7 +3,7 @@ This tool is made to remove empty folder from mobile.
 
 Usage: 
 
-1) Install termux.
+1) Install termux on your mobile(<a href = "https://play.google.com/store/search?q=termux"> Click Here </a>).
 2) pkg install git
 3) pkg install python
 4) cd $HOME
