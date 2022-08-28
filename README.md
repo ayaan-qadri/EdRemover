@@ -17,6 +17,7 @@ Usage:
 12) python edremover.py
 
 <video controls>
-<source src="usage.mp4" type="video/mp4">
+
+<source src="https://github.com/PentW0lf/EdRemover/blob/main/usage.mp4" type="video/mp4">
 </video>
 <b> There you go </b>
