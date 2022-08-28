@@ -4,13 +4,14 @@ This tool is made to remove empty folder from mobile.
 Usage: 
 
 1) Install termux on your mobile(<a href = "https://play.google.com/store/search?q=termux"> Click here to download</a>).
-2) pkg install git
-3) pkg install python
-4) cd $HOME
-5) git clone https://github.com/PentW0lf/EdRemover
-6) cd EdRemover
-7) pip install os
-8) chmod +x edremover.py
-9) python edremover.py
+2) termux-setup-storage
+3) pkg install git
+4) pkg install python
+5) cd $HOME
+6) git clone https://github.com/PentW0lf/EdRemover
+7) cd EdRemover
+8) pip install os
+9) chmod +x edremover.py
+10) python edremover.py
 
 <b> There you go </b>
