@@ -18,6 +18,6 @@ Usage:
 
 <video controls>
 
-<source src="https://github.com/PentW0lf/EdRemover/blob/main/usage.mp4" type="video/mp4">
+<source src="https://github.com/PentW0lf/EdRemover/usage.mp4" type="video/mp4">
 </video>
 <b> There you go </b>
