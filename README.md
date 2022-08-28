@@ -16,10 +16,4 @@ Usage:
 11) chmod +x edremover.py
 12) python edremover.py
 
-<video controls>
-
-<source src="https://github.com/PentW0lf/EdRemover/usage.mp4" type="video/mp4">
-</video>
-
-https://github.com/PentW0lf/EdRemover/usage.mp4
 <b> There you go </b>
