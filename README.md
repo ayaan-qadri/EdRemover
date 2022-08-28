@@ -8,13 +8,12 @@ Usage:
 3) pkg remove science-repo -y
 4) pkg update -y
 5) termux-setup-storage
-6) pkg install git
-7) pkg install python
+6) pkg install git -y
+7) pkg install python -y
 8) cd $HOME
 9) git clone https://github.com/PentW0lf/EdRemover
 10) cd EdRemover
-11) pip install os
-12) chmod +x edremover.py
-13) python edremover.py
+11) chmod +x edremover.py
+12) python edremover.py
 
 <b> There you go </b>
