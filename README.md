@@ -20,4 +20,6 @@ Usage:
 
 <source src="https://github.com/PentW0lf/EdRemover/usage.mp4" type="video/mp4">
 </video>
+
+https://github.com/PentW0lf/EdRemover/usage.mp4
 <b> There you go </b>
