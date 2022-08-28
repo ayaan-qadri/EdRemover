@@ -16,7 +16,7 @@ Usage:
 11) chmod +x edremover.py
 12) python edremover.py
 
-<video>
-<source src = "usage.mp4" type= "video/mp4" controls>
+<video controls>
+<source src = "usage.mp4" type= "video/mp4">
 </video>
 <b> There you go </b>
