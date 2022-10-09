@@ -1,9 +1,25 @@
+[contributors-shield]: https://img.shields.io/github/contributors/PentW0lf/EdRemover.svg?style=for-the-badge
+[contributors-url]: https://github.com/PentW0lf/EdRemover/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/PentW0lf/EdRemover.svg?style=for-the-badge
+[forks-url]: https://github.com/PentW0lf/EdRemover/network/members
+[stars-shield]: https://img.shields.io/github/stars/PentW0lf/EdRemover.svg?style=for-the-badge
+[stars-url]: https://github.com/PentW0lf/EdRemover/stargazers
+[issues-shield]: https://img.shields.io/github/issues/PentW0lf/EdRemover.svg?style=for-the-badge
+[issues-url]: https://github.com/PentW0lf/EdRemover/issues
+
 # EdRemover
-This tool is made to remove empty folder from mobile.
+This tool is made to remove empty folders from android phones.
 
-Usage: 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-1) Install termux on your mobile(<a href = "https://play.google.com/store/apps/details?id=com.termux">Click here to download</a>).
+
+## Usage: 
+1) Install termux on your android:
+You can find it here (<a href = "https://play.google.com/store/apps/details?id=com.termux%22%3E">Click here to download</a>).
+```sh
 2) pkg remove game-repo -y
 3) pkg remove science-repo -y
 4) pkg update -y
@@ -15,5 +31,4 @@ Usage:
 10) cd EdRemover
 11) chmod +x edremover.py
 12) python edremover.py
-
-<b> There you go </b>
+```
