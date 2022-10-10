@@ -20,25 +20,47 @@ This tool is made to remove empty folders from android phones.
 1) Install termux on your android:
 You can find it here (<a href = "https://play.google.com/store/apps/details?id=com.termux">Click here to download</a>).
 
-2) ```pkg remove game-repo -y```
+2) ```
+pkg remove game-repo -y
+```
  
-3) ``` pkg remove science-repo -y```
+3) ``` 
+pkg remove science-repo -y
+```
 
-4) ``` pkg update -y```
+4) ``` 
+pkg update -y
+```
 
-5) ``` termux-setup-storage```
+5) ``` 
+termux-setup-storage
+```
 
-6) ``` pkg install git -y```
+6) ``` 
+pkg install git -y
+```
 
-7) ``` pkg install python -y```
+7) ``` 
+pkg install python -y
+```
 
-8) ``` cd $HOME```
+8) ``` 
+cd $HOME
+```
 
-9) ``` git clone https://github.com/PentW0lf/EdRemover```
+9) ``` 
+git clone https://github.com/PentW0lf/EdRemover
+```
 
-10) ``` cd EdRemover```
+10) ``` 
+cd EdRemover
+```
 
-11) ``` chmod +x edremover.py```
+11) ``` 
+chmod +x edremover.py
+```
 
-12) ``` python edremover.py```
+12) ``` 
+python edremover.py
+```
 
