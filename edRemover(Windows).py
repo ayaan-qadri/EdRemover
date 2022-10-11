@@ -20,7 +20,7 @@ banner = c.lr+f"""
                 \n\t\t  Made By Krunal      
     """+c.end
 print(banner)
-choice = input(c.k+f"where do you want to clean empty folder:\n{c.end}-> From everywhere - E\n-> From perticular folder - P: ").lower()
+choice = input("where do you want to clean empty folder:\n-> From everywhere - E\n-> From perticular folder - P: ").lower()
 def cleaner1():
     def remove_empty_folders(path_abs):
         walk = list(os.walk(path_abs))
@@ -31,19 +31,15 @@ def cleaner1():
 
     if __name__ == '__main__':
         remove_empty_folders("your-path")
-    print(f"\n<<<<<- Empty folder removed  >>>>>")
+    print("\n<<<<<- Empty folder removed  >>>>>")
+
 def cleaner2():
-    # Directory name
     directory = input("-> Type folder name(case_sensitive): ").strip()
     
-    # Parent Directory
-    parent = "D:/"
+    parent = "D:/Hacktoberfest/EdRemover"
     
-    # Path
     path = os.path.join(parent, directory)
     
-    # Remove the Directory
-    # "GeeksforGeeks"
     try:
         os.rmdir(path)
         print("Directory '% s' has been removed successfully" % directory)
@@ -51,7 +47,7 @@ def cleaner2():
         print(error)
         print("Directory '% s' can not be removed" % directory)
 
-    if choice == "e" or choice == "E":
-        cleaner1()
-    else:
-        cleaner2()
+if choice == "e":
+    cleaner1()
+else:
+    cleaner2()
