@@ -17,7 +17,7 @@ This tool is made to remove empty folders from android phones.
 
 
 ## Usage: 
->>> Install termux on your android:
+1) Install termux on your android:
 You can find it here (<a href = "https://play.google.com/store/apps/details?id=com.termux">Click here to download</a>).
 
 ```bash 
