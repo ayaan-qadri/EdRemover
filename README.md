@@ -20,7 +20,10 @@ This tool is made to remove empty folders from android phones.
 1) Install termux on your android:
 You can find it here (<a href = "https://play.google.com/store/apps/details?id=com.termux">Click here to download</a>).
 
-2) ```bash pkg remove game-repo -y```
+2) 
+```bash 
+pkg remove game-repo -y
+```
  
 3) ```pkg remove science-repo -y```
 
