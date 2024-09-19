@@ -8,7 +8,7 @@
 [issues-url]: https://github.com/PentW0lf/EdRemover/issues
 
 # EdRemover
-This tool is made to remove empty folders from android phones.
+A simple tool designed to remove empty folders from Android devices, helping to free up space and keep your file system organized.
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
